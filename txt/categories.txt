@@ -1,0 +1,7 @@
+0001,Pen,stationary
+0002,Pencil,stationary
+0003,Ruler,stationary
+0004,Noodle,Food
+0005,Tom Yum Goong,Food
+0006,coke,drinks
+0007,pepzi,drinks

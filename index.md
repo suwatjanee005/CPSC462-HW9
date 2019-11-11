@@ -70,5 +70,6 @@ Line : Fafearn89.
 <a href="https://github.com/suwatjanee005/CPSC462-HW9/tree/master/htm" class="button">ไฟล์ htm</a>
 <a href="https://github.com/suwatjanee005/CPSC462-HW9/tree/master/txt" class="button">ไฟล์ txt</a>
 ### Free web host 
-[000webhost](https://fafearn89.000webhostapp.com/) 
-<br>[infinity](https://Myfearn89.epizy.com)
+[infinity](http://myfearn89.epizy.com/index.php)
+<br>[000webhost](https://fafearn89.000webhostapp.com/) 
+
